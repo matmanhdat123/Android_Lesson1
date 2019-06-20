@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_pass_width">231dp</dimen>
+    <dimen name="button_width">284dp</dimen>
+    <dimen name="button_height">61dp</dimen>
+    <dimen name="button_absoluteY">464dp</dimen>
+    <dimen name="button_margin">8dp</dimen>
+    <dimen name="EditText_height">47dp</dimen>
+    <dimen name="Lock_Letter_height">47dp</dimen>
+    <dimen name="Lock_Letter_width">50dp</dimen>
+    <dimen name="Kombini_height">351</dimen>
+    <dimen name="Kombini_width">417</dimen>
+    <dimen name="Email_absoluteX">113dp</dimen>
+
+</resources>
