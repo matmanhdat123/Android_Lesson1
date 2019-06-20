@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kombini</string>
+    <string name="login">Log In</string>
+    <string name="Email">vitoscaletta@gmail.com</string>
+    <string name="pass">11111111111</string>
+    <string name="Forgot">Forgot you password?</string>
+    <string name="Donhaveaccount">Don't have an account?</string>
+    <string name="createone"> Create one</string>
+</resources>
